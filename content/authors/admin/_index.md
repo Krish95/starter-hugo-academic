@@ -24,9 +24,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Scholar in Intelligent Systems
-    institution: Indian Institute of Science
-    year: (2018 - Present)
+  - course = "Ph.D. student in Intelligent Systems"
+    institution = "Indian Institute of Science(IISc)"
+    year = "(2018-Present)"
   - course: B.Tech(Hons.) in Computer Science
     institution: Govt. Engineering College, Thrissur, Kerala
     year: (2017)

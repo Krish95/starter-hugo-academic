@@ -25,7 +25,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/anand95krish'
 
 # Site header
 
@@ -35,7 +35,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization

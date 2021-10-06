@@ -1,7 +1,7 @@
 ---
-# A Teaching Experience section created with the Pages widget.
-# This section displays contents from `content/teaching/`.
-widget: pages
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -16,26 +16,37 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-### Teaching Assistance @ IISc
-* Randomized Algorithms (Feb 2021 - June 2021)
-* Game Theory (Jan 2020 - Jun 2020, Feb 2021 - June 2021)
-* Linear Algebra and Probability (Aug 2019 - Dec 2019)
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
-### Industry/Research Experience
-* Research Intern @ IBM Research (Jun 2019 - Sep 2019)
-* R&D Intern @ Aindra Systems (Jun 2018 - Jul 2018)
-
-### Events 
-* [Jan '21] Teaching a full semester course on Probability at Dayananda Sagar University with over 60 students. 
-* Selected for participating in [EC'20](http://ec20.sigecom.org/) Global Outreach Program and part of [EC Mentoring workshop](https://www.cs.princeton.edu/~smattw/AMW20/index.html).
-* Attended workshop on [Recent Trends in Algorithms](http://events.iitgn.ac.in/2020/RTA/) and [ACM India Annual Event](http://events.iitgn.ac.in/2020/ACMAnnualEvent/) at IIT Gandhinagar.
-* Conducted Game Theory tutorial sessions as part of [Summer Research Program on Dynamics of Complex Systems](https://www.icts.res.in/program/dcs2019).
-
-### Academic Services
-* Subreviewer for [WINE 2019](https://wine2019.cs.columbia.edu/)
-* Subreviewer for [WINE 2020](https://econcs.pku.edu.cn/wine2020/)
-* Subreviewer for [SAGT 2021](https://events.au.dk/sagt2021/)
-
+design:
+  columns: '2'
 ---
 
 

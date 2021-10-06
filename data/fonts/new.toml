@@ -1,0 +1,17 @@
+# Font style metadata
+name = "flipfont"
+
+# Optional Google font URL
+google_fonts = "Varela Round|Quicksand|Alegreya|Comfortaa|Playfair+Display:400,700"
+
+# Font families
+heading_font = "Comfortaa"
+body_font = "Varela Round"
+nav_font = "Comfortaa"
+mono_font = "Varela Round"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
+# Font size affects #botbar1 placement
+# in Safari

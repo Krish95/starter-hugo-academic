@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD Scholar in Intelligent Systems
     institution: Indian Institute of Science
-    year:  (2018 - Present)
+    year:  "(2018 - Present)"
   - course: B.Tech(Hons.) in Computer Science
     institution: Govt. Engineering College, Thrissur, Kerala
     year:  (2017)

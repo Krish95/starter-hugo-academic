@@ -9,7 +9,7 @@ superuser: true
 role: Game Theory Lab & Approximation Algorithms Lab
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Indian Institute of Science(IISc)
+- name: Indian Institute of Science (IISc)
   url: https://iisc.ac.in/
   
 # Short bio (displayed in user profile at end of posts)
@@ -26,10 +26,10 @@ education:
   courses:
   - course: PhD Scholar in Intelligent Systems
     institution: Indian Institute of Science
-    year: 2018 - Present
+    year:  (2018 - Present)
   - course: B.Tech(Hons.) in Computer Science
     institution: Govt. Engineering College, Thrissur, Kerala
-    year: 2017
+    year:  (2017)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

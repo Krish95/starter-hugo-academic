@@ -13,7 +13,7 @@ organizations:
   url: https://iisc.ac.in/
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Game Theory, Sequential decision making and RL.
 
 # Interests to show in About widget
 interests:
@@ -72,7 +72,6 @@ I am a Prime Minister’s Research Fellow (PMRF) pursuing Ph.D. in the Departmen
 I am fortunate to be advised by Prof. Y. Narahari and Assoc. Prof. Siddharth Barman.
 
 My research focuses on fair division of indivisible goods in a multi-agent setting.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+[![](https://imgs.xkcd.com/comics/here_to_help.png)](https://xkcd.com/1831/)
 
 

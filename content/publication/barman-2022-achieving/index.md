@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-21'
-lastmod: 2022-01-19T16:08:41+05:30
+lastmod: 2022-01-19
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-21T10:36:52.415302Z'
+publishDate: '2022-01-21'
 publication_types:
 - '3'
 abstract: "We study the problem of allocating indivisible goods among agents in a fair manner. While envy-free allocations of indivisible goods are not guaranteed to exist, envy-freeness can be achieved by additionally providing some subsidy to the agents. These subsidies can be alternatively viewed as a divisible good (money) that is fractionally assigned among the agents to realize an envy-free outcome. In this setup, we bound the subsidy required to attain envy-freeness among agents with dichotomous valuations, i.e., among agents whose marginal value for any good is either zero or one.  

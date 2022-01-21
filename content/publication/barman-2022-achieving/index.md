@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Sublinear Approximation Algorithm for Nash Social Welfare with XOS Valuations
+title: Achieving Envy-Freeness with Limited Subsidies under Dichotomous Valuations
 subtitle: ''
 summary: ''
 authors:
 - Siddharth Barman
 - admin
-- Pooja Kulkarni
-- Shivika Narang
+- Yadati Narahari
+- Soumyarup Sadhukan
 tags: []
 categories: []
-date: '2021-10-02'
-lastmod: 2021-10-06T16:08:41+05:30
+date: '2022-01-21'
+lastmod: 2022-01-19T16:08:41+05:30
 featured: false
 draft: false
 
@@ -30,13 +30,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-06T10:36:52.415302Z'
+publishDate: '2022-01-21T10:36:52.415302Z'
 publication_types:
 - '3'
-abstract: "We study the problem of allocating indivisible goods among $n$ agents with the objective of maximizing Nash social welfare (NSW). This welfare function is defined as the geometric mean of the agents' valuations and, hence, it strikes a balance between the extremes of social welfare (arithmetic mean) and egalitarian welfare (max-min value). Nash social welfare has been extensively studied in recent years for various valuation classes. In particular, a notable negative result is known when the agents' valuations are complement-free and are specified via value queries: for XOS valuations, one necessarily requires exponentially many value queries to find any sublinear (in $n$) approximation for NSW. Indeed, this lower bound implies that stronger query models are needed for finding better approximations. Towards this, we utilize demand oracles and XOS oracles; both of these query models are standard and have been used in prior work on social welfare maximization with XOS valuations.
-We develop the first sublinear approximation algorithm for maximizing Nash social welfare under XOS valuations, specified via demand and XOS oracles. Hence, this work breaks the $O(n)$-approximation barrier for NSW maximization under XOS valuations. We obtain this result by developing a novel connection between NSW and social welfare under a capped version of the agents' valuations. In addition to this insight, which might be of independent interest, this work relies on an intricate combination of multiple technical ideas, including the use of repeated matchings and the discrete moving knife method."
+abstract: "We study the problem of allocating indivisible goods among agents in a fair manner. While envy-free allocations of indivisible goods are not guaranteed to exist, envy-freeness can be achieved by additionally providing some subsidy to the agents. These subsidies can be alternatively viewed as a divisible good (money) that is fractionally assigned among the agents to realize an envy-free outcome. In this setup, we bound the subsidy required to attain envy-freeness among agents with dichotomous valuations, i.e., among agents whose marginal value for any good is either zero or one.  
 
-url_pdf: "https://arxiv.org/abs/2110.00767"
+We prove that, under dichotomous valuations, there exists an allocation that achieves envy-freeness with a per-agent subsidy of either $0$ or $1$. Furthermore, such an envy-free solution can be computed efficiently in the standard value-oracle model. Notably, our results hold for general dichotomous valuations and, in particular, do not require the (dichotomous) valuations to be additive, submodular, or even subadditive. Also, our subsidy bounds are tight and provide a linear (in the number of agents) factor improvement over the bounds known for general monotone valuations."
+
+url_pdf: "https://arxiv.org/pdf/2201.07419.pdf"
 publication: "Preprint"
 ---
 

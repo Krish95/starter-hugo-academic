@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Achieving Envy-Freeness with Limited Subsidies under Dichotomous Valuations
+title: "Achieving Envy-Freeness with Limited Subsidies under Dichotomous Valuations"
 authors:
 - [Siddharth Barman](https://www.csa.iisc.ac.in/~barman/)
 - admin

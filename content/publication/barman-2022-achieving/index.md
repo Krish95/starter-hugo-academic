@@ -38,7 +38,7 @@ abstract: "We study the problem of allocating indivisible goods among agents in 
 We prove that, under dichotomous valuations, there exists an allocation that achieves envy-freeness with a per-agent subsidy of either $0$ or $1$. Furthermore, such an envy-free solution can be computed efficiently in the standard value-oracle model. Notably, our results hold for general dichotomous valuations and, in particular, do not require the (dichotomous) valuations to be additive, submodular, or even subadditive. Also, our subsidy bounds are tight and provide a linear (in the number of agents) factor improvement over the bounds known for general monotone valuations."
 
 url_pdf: "https://arxiv.org/pdf/2201.07419.pdf"
-url_video: "https://recorder-v3.slideslive.com/?share=67303&s=dc469f5c-b22f-4dab-9ae8-b99c4e1240ee"
+url_video: "https://recorder-v3.slideslive.com/#/share?share=67284&s=ce904e3d-50e8-4d55-95b4-5978ab15a2c5"
 publication: "In **IJCAI 2022**"
 ---
 

@@ -29,7 +29,7 @@ education:
     institution: Indian Institute of Science
     year: (2018 - now)
     
-  - course: B.Tech(Hons.) in Computer Science
+  - course: B.Tech (Hons.) in Computer Science
     institution: Govt. Engineering College, Thrissur, Kerala
     year: (2017)
 

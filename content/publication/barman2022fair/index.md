@@ -28,7 +28,7 @@ abstract: "We study coverage problems in which, for a set of agents and a given 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["Computer Science and Game Theory"]
 categories: []
 featured: false
 

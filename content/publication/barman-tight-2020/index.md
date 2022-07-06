@@ -14,7 +14,7 @@ abstract: "We develop polynomial-time algorithms for the fair and efficient allo
 featured: false
 publication: "In **ESA 2020**"
 tags: ["Computer Science and Game Theory"]
-url_pdf: "https://drops.dagstuhl.de/opus/volltexte/2020/12877/pdf/LIPIcs-ESA-2020-11.pdf"
+url_pdf: "https://arxiv.org/pdf/2005.07370.pdf"
 url_video: "https://www.youtube.com/watch?v=9Xv4Xj20gF8&feature=youtu.be"
 url_slides: "https://drive.google.com/file/d/1UO-sNHOfRpZW4if7OFv6Ctpf0crkqsdl/view"
 ---

@@ -36,7 +36,7 @@ publication_types:
 abstract: "We study the problem of allocating indivisible goods among $n$ agents with the objective of maximizing Nash social welfare (NSW). This welfare function is defined as the geometric mean of the agents' valuations and, hence, it strikes a balance between the extremes of social welfare (arithmetic mean) and egalitarian welfare (max-min value). Nash social welfare has been extensively studied in recent years for various valuation classes. In particular, a notable negative result is known when the agents' valuations are complement-free and are specified via value queries: for XOS valuations, one necessarily requires exponentially many value queries to find any sublinear (in $n$) approximation for NSW. Indeed, this lower bound implies that stronger query models are needed for finding better approximations. Towards this, we utilize demand oracles and XOS oracles; both of these query models are standard and have been used in prior work on social welfare maximization with XOS valuations.
 We develop the first sublinear approximation algorithm for maximizing Nash social welfare under XOS valuations, specified via demand and XOS oracles. Hence, this work breaks the $O(n)$-approximation barrier for NSW maximization under XOS valuations. We obtain this result by developing a novel connection between NSW and social welfare under a capped version of the agents' valuations. In addition to this insight, which might be of independent interest, this work relies on an intricate combination of multiple technical ideas, including the use of repeated matchings and the discrete moving knife method."
 
-url_pdf: "https://arxiv.org/abs/2110.00767"
+url_pdf: "https://arxiv.org/pdf/2110.00767.pdf"
 publication: "Preprint"
 ---
 
